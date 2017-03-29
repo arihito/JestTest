@@ -14,5 +14,8 @@
   "license": "ISC",
   "jest": {
     "testEnvironment": "node"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
   }
 }

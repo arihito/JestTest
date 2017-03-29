@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`always the same number 1`] = `
+Object {
+  "number": 1234,
+}
+`;
+
+exports[`random number 1`] = `
+Object {
+  "number": 0.7439439850755902,
+}
+`;
