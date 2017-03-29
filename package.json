@@ -1,0 +1,15 @@
+{
+  "name": "ebisu170329",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^19.0.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
